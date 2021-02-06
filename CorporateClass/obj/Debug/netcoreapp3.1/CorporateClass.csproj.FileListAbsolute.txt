@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\bin\Debug\netcoreapp3.1\CorporateClass.exe
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\bin\Debug\netcoreapp3.1\CorporateClass.deps.json
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\bin\Debug\netcoreapp3.1\CorporateClass.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\bin\Debug\netcoreapp3.1\CorporateClass.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\bin\Debug\netcoreapp3.1\CorporateClass.dll
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\bin\Debug\netcoreapp3.1\CorporateClass.pdb
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.dll
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.pdb
+C:\Users\cloja\source\repos\Back-End\CorporateClass\CorporateClass\obj\Debug\netcoreapp3.1\CorporateClass.genruntimeconfig.cache
