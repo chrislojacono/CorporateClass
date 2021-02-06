@@ -17,7 +17,10 @@ namespace CorporateClass
 
             dunderMifflin.AddEmployee(dunderMifflinEmployees);
 
+
+            dunderMifflin.RemoveEmployee(josephMartin);
             dunderMifflin.ListEmployees();
+            
         }
     }
 }
